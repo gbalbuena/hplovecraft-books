@@ -1,5 +1,14 @@
+GITBOOK=docker run -ti --rm -v `pwd`:/docs humangeo/gitbook
+
 init:
-    docker run -ti --rm -v `pwd`:/docs humangeo/gitbook init
+	$(GITBOOK) init
 
 pdf:
-    docker run -ti --rm -v `pwd`:/docs humangeo/gitbook pdf .
+	$(GITBOOK) pdf .
+
+
+epub:
+	$(GITBOOK) epub .
+
+mobi:
+	$(GITBOOK) mobi .
