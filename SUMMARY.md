@@ -12,25 +12,21 @@
 * [El árbol](writings/es/el-árbol.md)
 * [El árbol de la colina](writings/es/el-árbol-de-la-colina.md)
 * [El caos reptante](writings/es/el-caos-reptante.md)
-
-<!-- 
-* [El clérigo malvado]
-* [El color que cayó del cielo]
-* [El extraño]
-* [El horror en la Playa Martin]
-* [El pantano de la luna]
-* [El sabueso]
-* [El ser bajo la luz de la luna]
-* [El Terrible Anciano]
-* [En la cripta]
-* [Ex oblivione]
-* [Gugos y lívidos]
-* [Historia del Necronomicón]
-* [La bestia en la cueva]
-* [La ciudad sin nombre]
-* [La decisión de Randolph Carter]
--->
-
+* [El clérigo malvado](writings/es/el-clérigo-malvado.md)
+* [El color que cayó del cielo](writings/es/el-color-que-cayó-del cielo.md)
+* [El extraño](writings/es/el-extraño.md)
+* [El horror en la Playa Martin](writings/es/el-horror-en-la-playa-martin.md)
+* [El pantano de la luna](writings/es/el-pantano-de-la-luna.md)
+* [El sabueso](writings/es/)
+* [El ser bajo la luz de la luna](writings/es/)
+* [El Terrible Anciano](writings/es/)
+* [En la cripta](writings/es/)
+* [Ex oblivione](writings/es/)
+* [Gugos y lívidos](writings/es/)
+* [Historia del Necronomicón](writings/es/)
+* [La bestia en la cueva](writings/es/)
+* [La ciudad sin nombre](writings/es/)
+* [La decisión de Randolph Carter](writings/es/)
 * [La llamada de Cthulhu](writings/es/la-llamada-de-cthulhu.md)
 * [La música de Erich Zann](writings/es/la-música-de-erich-zann.md)
 * [La Nave Blanca](writings/es/la-nave-blanca.md)
@@ -60,7 +56,7 @@
 * Beyond the Wall of Sleep
 * The Book
 * The Call of Cthulhu
-* The Case of Charles Dexter Ward 
+* The Case of Charles Dexter Ward
 * [The Cats of Ulthar](writings/the-cats-of-ulthar.md)
 * Celephaïs
 * The Challenge from Beyond
