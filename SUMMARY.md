@@ -13,20 +13,20 @@
 * [El árbol de la colina](writings/es/el-árbol-de-la-colina.md)
 * [El caos reptante](writings/es/el-caos-reptante.md)
 * [El clérigo malvado](writings/es/el-clérigo-malvado.md)
-* [El color que cayó del cielo](writings/es/el-color-que-cayó-del cielo.md)
+* [El color que cayó del cielo](writings/es/el-color-que-cayó-del-cielo.md)
 * [El extraño](writings/es/el-extraño.md)
 * [El horror en la Playa Martin](writings/es/el-horror-en-la-playa-martin.md)
 * [El pantano de la luna](writings/es/el-pantano-de-la-luna.md)
-* [El sabueso](writings/es/)
-* [El ser bajo la luz de la luna](writings/es/)
-* [El Terrible Anciano](writings/es/)
-* [En la cripta](writings/es/)
-* [Ex oblivione](writings/es/)
-* [Gugos y lívidos](writings/es/)
-* [Historia del Necronomicón](writings/es/)
-* [La bestia en la cueva](writings/es/)
-* [La ciudad sin nombre](writings/es/)
-* [La decisión de Randolph Carter](writings/es/)
+* [El sabueso](writings/es/el-sabueso.md)
+* [El ser bajo la luz de la luna](writings/es/el-ser-bajo-la-luz-de-la-luna.md)
+* [El Terrible Anciano](writings/es/el-terrible-anciano.md)
+* [En la cripta](writings/es/en-la-cripta.md)
+* [Ex oblivione](writings/es/ex-oblivione.md)
+* [Gugos y lívidos](writings/es/gugos-y-lívidos.md)
+* [Historia del Necronomicón](writings/es/historia-del-necronomicón.md)
+* [La bestia en la cueva](writings/es/la-bestia-en-la-cueva.md)
+* [La ciudad sin nombre](writings/es/la-ciudad-sin-nombre.md)
+* [La decisión de Randolph Carter](writings/es/la-decisión-de-randolph-carter.md)
 * [La llamada de Cthulhu](writings/es/la-llamada-de-cthulhu.md)
 * [La música de Erich Zann](writings/es/la-música-de-erich-zann.md)
 * [La Nave Blanca](writings/es/la-nave-blanca.md)
@@ -34,10 +34,9 @@
 * [La tumba](writings/es/la-tumba.md)
 * [Las ratas de las paredes](writings/es/las-ratas-de-las-paredes.md)
 * [Los amados muertos](writings/es/los-amados-muertos.md)
-
 * [Los gatos de Ulthar](writings/es/los-gatos-de-ulthar.md)
-* Los otros dioses
-* Polaris
+* [Los otros dioses](writings/es/los-otros-dioses.md)
+* [Polaris](writings/es/polaris.md)
 * [Reanimador 1: De la oscuridad](writings/es/reanimador-1.md)
 * [Reanimador 2: El demonio de la peste](writings/es/reanimador-2.md)
 * [Reanimador 3: Seis disparos a la luz de la luna](writings/es/reanimador-3.md)
@@ -51,14 +50,17 @@
 * [Ashes](writings/ashes.md)
 * [At the Mountains of Madness](writings/at-the-mountains-of-madness.md)
 * [Azathoth](writings/azathoth.md)
-* The Battle that Ended the Century
+
+<!-- * The Battle that Ended the Century
 * The Beast in the Cave
 * Beyond the Wall of Sleep
 * The Book
 * The Call of Cthulhu
-* The Case of Charles Dexter Ward
+* The Case of Charles Dexter Ward -->
+
 * [The Cats of Ulthar](writings/the-cats-of-ulthar.md)
-* Celephaïs
+
+<!-- * Celephaïs
 * The Challenge from Beyond
 * Collapsing Cosmoses
 * The Colour out of Space
@@ -151,4 +153,4 @@
 * What the Moon Brings
 * The Whisperer in Darkness
 * The White Ship
-* Winged Death
+* Winged Death -->

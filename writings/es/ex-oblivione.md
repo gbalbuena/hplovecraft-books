@@ -1,4 +1,5 @@
-Ex oblivione
+# Ex oblivione
+
 [Cuento - Texto completo.]
 
 H. P. Lovecraft

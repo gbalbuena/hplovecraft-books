@@ -1,7 +1,9 @@
-En la cripta
+# En la cripta
+
 [Cuento - Texto completo.]
 
 H. P. Lovecraft
+
 Dedicado a C.W. Smith, que sugirió la idea central
 
 Nada más absurdo, a mi juicio, que esa tópica asociación entre lo hogareño y lo saludable que parece impregnar la sicología de la multitud. Mencione usted un bucólico paraje yanqui, un grueso y chapucero enterrador de pueblo y un descuidado contratiempo con una tumba, y ningún lector esperará otra cosa que un relato cómico, divertido pero grotesco. Dios sabe, empero, que la prosaica historia que la muerte de George Birch me permite contar tiene, en sí misma, ciertos elementos que hacen que la más oscura de las comedias resulte luminosa. Birch quedó impedido y cambió de negocio en 1881, aunque nunca comentaba el asunto si es que podía evitarlo. Tampoco lo hacía su viejo médico, el doctor Davis, que murió hace años. Se acepta generalmente que su dolencia y daños fueron resultado de un desafortunado resbalón por el que Birch quedó encerrado durante nueve horas en el mortuorio cementerio de Peck Valley, logrando salir sólo mediante toscos y destructivos métodos. Pero mientras que esto es una verdad de la que nadie duda, había otros y más negros aspectos sobre los que el hombre solía murmurar en sus delirios de borracho, cerca de su final. Se confió a mí porque yo era médico, y porque probablemente sentía la necesidad de hablar con alguien después de la muerte de Davis. Era soltero y carecía completamente de parientes.
