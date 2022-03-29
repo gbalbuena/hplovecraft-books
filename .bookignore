@@ -1,7 +1,0 @@
-tmp
-.editorconfig
-.gitignore
-.docker-compose.yaml
-*.epub
-*.mobi
-Makefile
