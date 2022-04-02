@@ -1,0 +1,43 @@
+{
+  "name": "hplovecraft-v1",
+  "version": "1.0.0",
+  "description": "[Howard Phillips Lovecraft]",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bash-color": "^0.0.4",
+    "commander": "^2.11.0",
+    "fs-extra": "^3.0.1",
+    "gitbook-cli": "^2.3.2",
+    "graceful-fs": "^4.2.9",
+    "jsonfile": "^3.0.1",
+    "lodash": "^4.17.4",
+    "minimist": "^0.0.10",
+    "npm": "^5.1.0",
+    "npmi": "^1.0.1",
+    "optimist": "^0.6.1",
+    "os-homedir": "^1.0.2",
+    "os-tmpdir": "^1.0.2",
+    "q": "^1.5.0",
+    "semver": "^5.3.0",
+    "tmp": "^0.0.31",
+    "universalify": "^0.1.2",
+    "user-home": "^2.0.0",
+    "wordwrap": "^0.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbalbuena/hplovecraft-books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbalbuena/hplovecraft-books/issues"
+  },
+  "homepage": "https://github.com/gbalbuena/hplovecraft-books#readme"
+}

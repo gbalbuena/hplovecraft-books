@@ -4,4 +4,3 @@
 
 Estados Unidos: 1890-1937
 
-![cover](images/cover.jpeg)

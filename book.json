@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    "autocover"
+  ],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Cuentos de HP Lovecraft",
+      "author": "Howard Phillips Lovecraft",
+      "pluginsConfig": {
+        "autocover": {
+          "font": {
+            "size": null,
+            "family": "Impact",
+            "color": "#FFF"
+          },
+          "size": {
+            "w": 1800,
+            "h": 2360
+          },
+          "background": {
+            "color": "#09F"
+          }
+        }
+      }
+    }
+  }
+}
